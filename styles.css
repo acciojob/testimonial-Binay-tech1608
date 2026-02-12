@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#box{
+	background-color: #f5f5f5;
+}
+#doe{
+	padding-left: 5px;
+	border: 1px solid gray;
+    margin: 10px;
+	background-color: white;
+}
+#smith{
+	padding-left: 5px;
+	margin: 10px; 
+	border: 1px solid gray;
+	background-color: white;
+}
+
+#name1{
+	text-align: right;
+	font-style: italic;
+}
+#name2{
+	text-align: right;
+	font-style: italic;
+}
